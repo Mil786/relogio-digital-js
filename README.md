@@ -14,7 +14,7 @@ Este projeto é um relógio digital que se adapta ao horário do dia, com funcio
 - 
 ## 🔗 Demonstração
 Você pode testar o projeto online clicando no link abaixo:
-👉 [COLE_AQUI_O_SEU_LINK_DO_GITHUB_PAGES]
+👉 https://mil786.github.io/relogio-digital-js/
 
 ---
 *Projeto desenvolvido para fins de estudo e portfólio.*
