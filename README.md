@@ -11,3 +11,10 @@ Este projeto é um relógio digital que se adapta ao horário do dia, com funcio
 ## 🛠️ Tecnologias
 - HTML5 / CSS3 (Variáveis e Glassmorphism)
 - JavaScript Puro (Vanilla JS)
+- 
+## 🔗 Demonstração
+Você pode testar o projeto online clicando no link abaixo:
+👉 [COLE_AQUI_O_SEU_LINK_DO_GITHUB_PAGES]
+
+---
+*Projeto desenvolvido para fins de estudo e portfólio.*
